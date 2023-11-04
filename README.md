@@ -460,7 +460,7 @@ change the paths accordingly for the runs and hostname
 
 5. **Run Placement** - ```run_placement```
 
-![image](https://github.com/yagnavivek/PES_ADD_SUB_32/assets/93475824/011b6d7f-18f9-40cd-b4d2-72d3850c24ff)
+![image](https://github.com/yagnavivek/PES_ADD_SUB_32/assets/93475824/f9182815-adae-4e06-a48e-371b7f979111)
 
 A snipshot of placement 
 
@@ -475,6 +475,11 @@ Execute the same magic command as in floorplan stage but this time in ```results
 - The last 3 commands just shows that we can change the variable values in the interactive mode and continue with the flow
 - ```echo``` is to check and ```set``` is to assign
 
+POWER AREA AND TIMING REPORT
+
+![image](https://github.com/yagnavivek/PES_ADD_SUB_32/assets/93475824/b8a96868-ebff-4e8c-bd43-8e3a06b03774)
+
+
 7. **Generate Power Distribution Network** - ```gen_pdn```
 
 ![image](https://github.com/yagnavivek/PES_ADD_SUB_32/assets/93475824/910ba9ee-7ed5-4104-a6e5-6761bfa1c80f)
@@ -482,6 +487,9 @@ Execute the same magic command as in floorplan stage but this time in ```results
 8. **Run Routing** - ```run_routing```
 
 ![image](https://github.com/yagnavivek/PES_ADD_SUB_32/assets/93475824/0119e4b2-ad27-4ad2-a1ac-3e84eef4c3c1)
+
+![image](https://github.com/yagnavivek/PES_ADD_SUB_32/assets/93475824/60acc956-61e7-4bb5-85f7-4995dd499ead)
+
 
 
 For further steps follow [interactive mode steps](https://openlane.readthedocs.io/en/latest/reference/interactive_mode.html)
